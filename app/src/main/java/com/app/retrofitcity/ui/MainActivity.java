@@ -4,10 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.app.retrofitcity.R;
 import com.app.retrofitcity.databinding.ActivityMainBinding;
-import com.app.retrofitcity.ux.adapter.CityNameAdapter;
-import com.app.retrofitcity.ux.model.CityModelItem;
+import com.app.retrofitcity.ui.adapter.CityNameAdapter;
 
 public class MainActivity extends AppCompatActivity {
 
